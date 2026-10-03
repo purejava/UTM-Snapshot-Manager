@@ -29,7 +29,7 @@
 "New name:" = "Nouveau Nom :";
 
 /* No comment provided by engineer. */
-"New…" = "Nouvau…";
+"New…" = "Nouveau…";
 
 /* Default name for new group */
 "NewGroup" = "NouveauGroupe";
@@ -95,10 +95,10 @@
 "There are no VMs in this group so far. Use the + button in the navigation area of the menu bar to add VMs." = "Il n'y a pas de VM dans ce groupe. Utilisez le bouton + dans le menu du panneau de navigation pour ajouter des VM.";
 
 /* No comment provided by engineer. */
-"This image does not contain any snapshots." = "Cette image disque n'a pas de snapshots.";
+"This image does not contain any snapshots." = "Cette image disque n'a pas de snapshot.";
 
 /* No comment provided by engineer. */
-"This VM does not contain any images." = "Cette VM n'a pas d'images disques.";
+"This VM does not contain any images." = "Cette VM n'a pas d'image disque.";
 
 /* No comment provided by engineer. */
 "This VM wasn't found. Has it been moved, removed or renamed?" = "VM introuvable. A-t-elle été déplacée, effacée ou renomméee ?";
